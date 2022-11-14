@@ -1,0 +1,8 @@
+node_modules/
+build/
+.env
+
+deployedABI_ActNFT
+deployedABI_TokenSales_main
+deployedAddress_ActNFT
+deployedAddress_TokenSales_main
